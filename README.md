@@ -26,3 +26,10 @@ Scam victims are sometimes targeted again by people claiming they can recover fu
 ## Conclusion
 
 Taking prompt, careful, and documented steps can help crypto scam victims understand their situation and explore legitimate reporting and recovery options.
+
+
+## Additional Resources
+
+For additional information about cryptocurrency scam recovery and security, visit:
+
+https://rapidtracesecure.com/
